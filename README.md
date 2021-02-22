@@ -1,2 +1,3 @@
-# DiscordWebhookIpLogger
-A simple Discord Webhook php iplogger
+Discord IpLogger PHP using Webhooks by Anonyhh
+
+This is a simple code, only the ip.
